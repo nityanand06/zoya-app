@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Zoya: The Sassy Voice AI",
+  "description": "A witty, real-time voice assistant with a playful personality and futuristic UI designed for seamless audio-only conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
